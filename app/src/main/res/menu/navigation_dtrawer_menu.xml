@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:icon="@drawable/baseline_account_circle_24"
+        android:id="@+id/item_Home"
+        android:title="Profile" />
+    <item
+        android:icon="@drawable/baseline_newspaper_24"
+        android:id="@+id/item_Search"
+        android:title="KYC" />
+    <item
+        android:icon="@drawable/baseline_support_agent_24"
+        android:id="@+id/item_Account"
+        android:title="Support" />
+    <item
+        android:icon="@drawable/baseline_settings_24"
+        android:id="@+id/settings"
+        android:title="Settings" />
+
+
+</menu>

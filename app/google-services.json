@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "749106008884",
+    "firebase_url": "https://machinetest-7556a-default-rtdb.firebaseio.com",
+    "project_id": "machinetest-7556a",
+    "storage_bucket": "machinetest-7556a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749106008884:android:821c9e620397f52aafcb61",
+        "android_client_info": {
+          "package_name": "com.example.machinetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFn2vgIEzMLGr6W_TA3c0vmxd7ZlAyu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
